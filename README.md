@@ -45,6 +45,12 @@ We opened the contarct at REMIX IDE <br>
 
 We can see simple counter here <br>
 
+![c60](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/cf12803a-dc01-4efd-9714-8e40767f2392)
+
+we are able to specify when we create the contract and upddate interval <br>
+
+
+
 
 
 
