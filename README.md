@@ -1,4 +1,4 @@
-# Ali_Khatami_Lottery5(Learning from the video of Patrick Collins)
+# Ali_Khatami_Lottery5(Learning from the video of Stephen Fluin)
 
 ### Introduction to Chainlink keepers 
 
