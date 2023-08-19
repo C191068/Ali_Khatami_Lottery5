@@ -7,5 +7,5 @@ so that it can not only pick up a verifiably random winner but it can also do <b
 
 this all programmatically and automatically trigger picking up of random winner based on some time interval <br>
 
-without us having interact with it <br>
+without us having interact with it and in a deentralized contract  <br>
 
