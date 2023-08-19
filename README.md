@@ -9,3 +9,11 @@ this all programmatically and automatically trigger picking up of random winner 
 
 without us having interact with it and in a deentralized contract  <br>
 
+In order for us to automatically  trigger a smart contract based on some parameter <br>
+
+be time parameter , maybe the price of some asset ,maybe there is some money in <br>
+
+the liquidity pool or really whatever trigger that we want  <br>
+
+We can use chain link keepers <br>
+
