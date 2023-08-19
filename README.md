@@ -21,4 +21,25 @@ We can use chain link keepers <br>
 Chainlink keepers is now chainlink automation and the link is given below:
 https://docs.chain.link/chainlink-automation/automation-release-notes#chainlink-keepers-is-now-chainlink-automation
 
+![c55](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/7aef0a10-8f84-43ab-8e41-42d2cd48b94d)
+
+There are mainly two part in building chainlink keeper  smart contract <br>
+
+
+![c56](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/b4829e64-f778-4e5a-94aa-d27453531f0c)
+
+fisrst wwe need to write a smart contract by implementi9ng the above two methods <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
