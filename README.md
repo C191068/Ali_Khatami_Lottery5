@@ -32,6 +32,10 @@ fisrst wwe need to write a smart contract by implementi9ng the above two methods
 
 next we need to register that smart contract for upkeep with the chainlink keeper network <br>
 
+![c57](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/d9bc798d-e8f0-4de6-be28-073c658f7b1a)
+
+Now we will deploy the above contract in REMIX <br>
+
 
 
 
