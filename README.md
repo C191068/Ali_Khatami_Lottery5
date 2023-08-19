@@ -41,6 +41,9 @@ Now we will deploy the above contract in REMIX <br>
 We opened the contarct at REMIX IDE <br>
 
 
+![c59](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/308c0973-e4ab-4dcf-a11c-ec376f187695)
+
+We can see simple counter here <br>
 
 
 
