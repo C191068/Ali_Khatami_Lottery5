@@ -49,8 +49,11 @@ We can see simple counter here <br>
 
 we are able to specify when we create the contract and upddate interval <br>
 
+![c61](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/99ca7e33-a2ef-4e2a-95ff-db20a73aca7c)
+
 
 And the contract can verify Hey, it has enough time passed and if it has let update the counter <br>
+
 
 
 
