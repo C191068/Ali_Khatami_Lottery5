@@ -30,6 +30,9 @@ There are mainly two part in building chainlink keeper  smart contract <br>
 
 fisrst wwe need to write a smart contract by implementi9ng the above two methods <br>
 
+next we need to register that smart contract for upkeep with the chainlink keeper network <br>
+
+
 
 
 
