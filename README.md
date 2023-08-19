@@ -17,3 +17,8 @@ the liquidity pool or really whatever trigger that we want  <br>
 
 We can use chain link keepers <br>
 
+![c54](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/e57ceaf3-e63d-44cd-b694-dfdb89ef3208)
+Chainlink keepers is now chainlink automation and the link is given below:
+https://docs.chain.link/chainlink-automation/automation-release-notes#chainlink-keepers-is-now-chainlink-automation
+
+
