@@ -73,7 +73,12 @@ This is run off chain by anode form chainlink keeper network <br>
 
 But the gas used here is not the gas on chain <br>
 
-If the function checkUpkeep returns that bool upkeepNeeded then it is gonna go ahead and perform upkeep <br>
+If the function checkUpkeep returns that bool upkeepNeeded then it is gonna go ahead and perform upkeep <br>\
+
+![c64](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/6da62ee8-66b3-47ec-b496-74e7931fa038)
+
+So we can generate data off chain  and here in the above there is a new update about checkData <br>
+
 
 
 
