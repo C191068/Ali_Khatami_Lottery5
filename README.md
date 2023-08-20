@@ -106,6 +106,10 @@ Now will copy the deployed contract address and register that contract for upkee
 
 For that we will go to this link https://automation.chain.link/
 
+![c69](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/98237c06-1ebc-41f4-86e1-73a04a2f27d9)
+
+The above is the application that powers the autiomation network <br>
+
 
 
 
