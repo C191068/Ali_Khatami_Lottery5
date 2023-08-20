@@ -71,6 +71,8 @@ This is a method that not actually run on chain <br>
 
 This is run off chain by anode form chainlink keeper network <br>
 
+But the gas used here is not the gas on chain <br>
+
 
 
 
