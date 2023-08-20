@@ -102,6 +102,9 @@ here when we click deeploy button metamask window will pop up <br>
 Then successful transaction wil coccur <br>
 
 
+Now will copy the deployed contract address and register that contract for upkeep <br>
+
+
 
 
 
