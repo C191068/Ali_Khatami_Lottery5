@@ -67,6 +67,8 @@ The first one is function checkUpkeep  <br>
 
 function checkUpkeep is special because this is where the off chain computation happens <br>
 
+This is a method that not actually run on chain <br>
+
 
 
 
