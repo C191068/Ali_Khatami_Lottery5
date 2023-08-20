@@ -119,10 +119,24 @@ At first we will connect our metamsk wallet account <br>
 
 Then we will click the above button <br>
 
+![k1](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/573e8ac6-db80-4765-9059-9bf7fa3f5096)
 
-![c73](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/fd49a866-dd71-41fa-880c-75f075695c01)
+then we will select the time based option <br>
+
+![k2](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/4defe603-e24a-4f3b-8c6e-c8c35011ec52)
 
 then we will paste the contract address here <br>
+
+![k3](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/9f3831af-43c1-4f81-bc14-ebcbecd1ad1f)
+
+Then we will write the above <br>
+
+![k4](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/010670b0-3bcf-4215-b101-37adc39479f0)
+
+Then we will write 1 minute like the above <br>
+
+
+
 
 
 
