@@ -61,6 +61,9 @@ And the contract can verify Hey, it has enough time passed and if it has let upd
 
 Chainlink keeper compatible contract use two important methods that are part of this AutomationCompatibleInterface <br>
 
+![c63](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/0003f1a1-b4b8-4a4a-9bd8-b73e5e1b3bb6)
+
+The first one is function checkUpkeep  <br>
 
 
 
