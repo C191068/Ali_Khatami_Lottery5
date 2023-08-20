@@ -65,6 +65,8 @@ Chainlink keeper compatible contract use two important methods that are part of 
 
 The first one is function checkUpkeep  <br>
 
+function checkUpkeep is special because this is where the off chain computation happens <br>
+
 
 
 
