@@ -89,6 +89,9 @@ and things actually should be modified and run on blockchain <br>
 then actually make the stae change <br>
 
 
+![c66](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/56c1e3bc-28e9-4188-a595-e15db35d9f31)
+
+here 30means it will not update more than 30 seconds <br>
 
 
 
