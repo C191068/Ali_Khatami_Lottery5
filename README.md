@@ -136,6 +136,42 @@ Then we will write the above <br>
 Then we will write 1 minute like the above <br>
 
 
+![k6](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/712ae1de-214e-44e3-88cb-221e40e4216a)
+
+after then it will take some time for processing  <br>
+
+![k7](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/06ce29e5-41cf-45b8-931e-11c0909c2bea)
+
+then it will successfuully reegistered <br>
+
+![k8](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/52ef0bf7-b051-4b01-b6bf-d559800cdb03)
+
+It is saying it is underfunded <br>
+
+![k9](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/32bce35c-90da-48c3-9adb-8216ae62b11d)
+
+then we have to select the above optiuon <br>
+
+![k10](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/cdcca891-4327-466f-af1a-90c267cb9b6b)
+
+then we will give 7 link <br>
+
+![k11](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/c397d34a-d867-45cb-a763-8814d542d7da)
+
+metamask will pop up  <br>
+
+![k13](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/f2886c11-68d3-45b8-b9a6-97208fe7175e)
+Successful transaction will occur and it will become active <br>
+
+
+
+
+
+
+
+
+
+
 
 
 
