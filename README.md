@@ -1,4 +1,4 @@
-![image](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/cd9f39fc-431b-48b6-ade6-b627286ea5fe)# Ali_Khatami_Lottery5(Learning from the video of Stephen Fluin and Richard Gottleber)
+# Ali_Khatami_Lottery5(Learning from the video of Stephen Fluin and Richard Gottleber)
 
 ### Introduction to Chainlink keepers 
 
