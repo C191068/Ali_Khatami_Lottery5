@@ -54,7 +54,7 @@ we are able to specify when we create the contract and upddate interval <br>
 
 And the contract can verify Hey, it has enough time passed and if it has let update the counter <br>
 
-
+Chainlink keeper compatible contract use two important methods that are 
 
 
 
