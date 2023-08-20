@@ -110,6 +110,9 @@ For that we will go to this link https://automation.chain.link/
 
 The above is the application that powers the autiomation network <br>
 
+![c70](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/4ba65acf-64ef-4985-ac58-1ade24ec145c)
+
+At first we will connect our metamsk wallet account <br>
 
 
 
