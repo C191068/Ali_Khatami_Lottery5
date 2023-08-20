@@ -1,4 +1,4 @@
-![image](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/cd9f39fc-431b-48b6-ade6-b627286ea5fe)# Ali_Khatami_Lottery5(Learning from the video of Stephen Fluin)
+![image](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/cd9f39fc-431b-48b6-ade6-b627286ea5fe)# Ali_Khatami_Lottery5(Learning from the video of Stephen Fluin and Richard Gottleber)
 
 ### Introduction to Chainlink keepers 
 
@@ -169,6 +169,27 @@ Successful transaction will occur and it will become active <br>
 here in the history we can keep track of what has happened with our upkeep <br>
 
 We can also see that perform upkeep has run how much it cost us and how much link remaining <br>
+
+
+![k15](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/c5a9a962-5bf1-4a6c-b5e8-d0f206aebda9)
+
+here we can see minimum balance this is because automation network has run a simulation<br>
+to see how much this could cost <br>
+we have to keep our balance at least at that minimum balance <br>
+In order for to continue functioning <br>
+
+![k16](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/94d53121-422a-45a4-b225-12c35e6c12fa)
+
+here in our deployed ciontract when we click count button it shows 13 becauuse chainlink keeper <br>
+network has performed upkeep on my contract <br>
+
+![k17](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/c7049450-6532-4910-800b-583f4ffb9a95)
+
+here in the history we can see how many times chainlinkkeeper called the Performupkeep method <br>
+
+and the amount of link decreasing <br>
+
+
 
 
 
