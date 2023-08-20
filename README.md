@@ -164,6 +164,9 @@ metamask will pop up  <br>
 Successful transaction will occur and it will become active <br>
 
 
+![k14](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/4bb303bd-8d6c-4221-b2d8-207e464b96e4)
+
+here in the history we can keep track of what has happened with our upkeep <br>
 
 
 
