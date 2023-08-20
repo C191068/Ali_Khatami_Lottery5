@@ -101,6 +101,7 @@ here when we click deeploy button metamask window will pop up <br>
 
 Then successful transaction wil coccur <br>
 
+![c72](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/c04d9bcb-81fb-4141-92ff-262d95cb599e)
 
 Now will copy the deployed contract address and register that contract for upkeep <br>
 
@@ -119,6 +120,9 @@ At first we will connect our metamsk wallet account <br>
 Then we will click the above button <br>
 
 
+![c73](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/fd49a866-dd71-41fa-880c-75f075695c01)
+
+then we will paste the contract address here <br>
 
 
 
