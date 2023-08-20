@@ -77,7 +77,9 @@ If the function checkUpkeep returns that bool upkeepNeeded then it is gonna go a
 
 ![c64](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/6da62ee8-66b3-47ec-b496-74e7931fa038)
 
-So we can generate data off chain  and here in the above there is a new update about checkData <br>
+So we can generate data off chain  and pass that in this called checkData <br>
+
+
 
 
 
