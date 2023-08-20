@@ -84,6 +84,7 @@ So we can generate data off chain  and pass that in this called checkData <br>
 and that becomes performdata passed into performUpkeep <br>
 
 performUpkeep method is where we gonna verify that things are correct <br>
+and things actually should be modified and run on blockchain <br>
 
 
 
