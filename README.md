@@ -93,6 +93,13 @@ then actually make the stae change <br>
 
 here 30means it will not update more than 30 seconds <br>
 
+![c67](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/706cbe86-25ae-4966-8ff7-9b96db205524)
+
+here when we click deeploy button metamask window will pop up <br>
+
+![c68](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/4fd7b81f-554c-454e-8087-35cbcb52a522)
+
+Then successful transaction wil coccur <br>
 
 
 
