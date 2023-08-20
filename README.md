@@ -73,6 +73,9 @@ This is run off chain by anode form chainlink keeper network <br>
 
 But the gas used here is not the gas on chain <br>
 
+If the function checkUpkeep returns that bool upkeepNeeded then it is gonna go ahead and perform upkeep <br>
+
+
 
 
 
