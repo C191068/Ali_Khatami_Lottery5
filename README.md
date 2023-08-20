@@ -79,6 +79,9 @@ If the function checkUpkeep returns that bool upkeepNeeded then it is gonna go a
 
 So we can generate data off chain  and pass that in this called checkData <br>
 
+![c65](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/cedf677f-e934-42c9-90ed-bcf5df41085b)
+
+and that becomes performdata passed into performUpkeep <br>
 
 
 
