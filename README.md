@@ -114,6 +114,11 @@ The above is the application that powers the autiomation network <br>
 
 At first we will connect our metamsk wallet account <br>
 
+![c71](https://github.com/C191068/Ali_Khatami_Lottery5/assets/89090776/8929dfe7-be47-4c90-99c3-9b177f75d8e2)
+
+Then we will click the above button <br>
+
+
 
 
 
