@@ -69,6 +69,9 @@ function checkUpkeep is special because this is where the off chain computation 
 
 This is a method that not actually run on chain <br>
 
+This is run off chain <br>
+
+
 
 
 
