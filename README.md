@@ -168,6 +168,9 @@ Successful transaction will occur and it will become active <br>
 
 here in the history we can keep track of what has happened with our upkeep <br>
 
+We can also see that perform upkeep has run how much it cost us and how much link remaining <br>
+
+
 
 
 
